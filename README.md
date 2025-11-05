@@ -14,8 +14,8 @@ goatonomics/
 ## The Premise
 Tired of wrangling messy, real-world datasets and looking for insights that held great significance to my many constituents, I asked myself: “What if I treated a herd of imaginary goats with the same analytical rigor as a Fortune 500 company spearheaded by Nancy Pelosi?”
 
-And Goatonomics was born - a serious visual exploration of goat mood swings, friendship networks, favorite colors, musical preferences, gang affiliation, and the little things that most people don't notice. "That's because," my local farmers may printf in protest, "they do not exist." To this I inquire: have you even looked? Or were you looking at your phone while your herd of goats were coralled and harassed by your herding dog robot?  
-Some goats listen to *Bohemian Rhapsody.* Others scream into the void, like you and me. Correlation may not equal causation, but it’s all very suspicious and I'm going to get to the bottom of it. Hand me my shovel, my job search fatigue has struck and this is my way of venting some of my rage at seeing yet another third-party company post an expired job ad on LinkedIn.
+And Goatonomics was born - a serious visual exploration of goat mood swings, friendship networks, favorite colors, musical preferences, gang affiliation, and the little things that most people don't notice. "That's because," my local farmers may printf in protest, "they do not exist." To this I inquire: have you even looked? Or were you looking at your phone while your herd of goats was coralled and harassed by your herding dog robot?  
+Some goats listen to *Bohemian Rhapsody.* Others scream into the void, like you and me. Correlation may not equal causation, but it’s all very suspicious and I'm going to get to the bottom of it, so hand me my shovel. My job search fatigue has struck and this is my way of venting some of my rage at seeing yet another third-party company post an expired job ad on LinkedIn.
 
 ---
 
@@ -26,7 +26,7 @@ Columns include, but are not limited to:
 - **Mood:** Mostly grumpy, chill, or rowdy, with some fun surprises
 - **Favorite Color:** Heavy bias toward green, because grass  
 - **Herd Affiliation:** Chill Grazers, Goat Mafia, Anarchist Climbers, etc.  
-- **Bleat Volume (dB):** A numeric measurement of the goat's confidence, or spiritual distress  
+- **Bleat Volume (dB):** A numeric measurement of the goat's confidence, moral outrage, spiritual distress  
 - **BFF, nemesis, crush_on:** Self-explanatory. Goats are social creatures.  
 
 The dataset was *meticulously* handcrafted in Mockaroo until I accidentally swiped on my MacBook trackpad and triggered the browser's "back" button to lose my data. I almost cried but then I just did it myself in Google Sheets with some help from ChatGPT. And the LOWER() function because ChatGPT loves making everything Title Case.  
@@ -38,9 +38,9 @@ Using Power BI, I sought answers to department-critical questions:
 - Are hangry goats louder than chill goats?
 - Do goats with softer coats have more friends? In other words, are goats bigoted? Remember, it's important to assign your own conclusions to your findings, even if they otherwise don't correlate. What, you want objectivity? No you don't, nerd.
 - Is there a measurable relationship between favorite color and moral decay?
-- What song do chaotic goats appreciate the most?
+- What song do calm goats appreciate the most?
 
-Each visualization was made with genuine care and respect for conventional research ethics.
+Each visualization will probably be made with genuine care and respect for conventional research ethics.
 
 ---
 
@@ -69,10 +69,10 @@ Bonus slicer: *Filter by Relationship Status.* Every goat deserves love, because
 
 ## Future Work
 - Actually make the PowerBI dashboard. I'm so looking forward to this. For now, I need to sleep the sickness away.
-- Add DAX measure for Goat Happiness Index 2.0 (Now With More Angst)  
+- Add DAX measure for Goat Happiness Index 2.0  
 - Integrate weather data in a new table to predict bleat frequency vs weather and show I can do JOINs in SQL or something  
 - Maybe create a machine learning model to detect impending barnyard drama, but I don't know how I'd measure the drama. Another table will need to be created, or we will scrap this idea and speak no more of it.  
-- Replace all visuals with goat emojis once I'm employed
+- Replace all visuals with goat emojis once I'm employed  
 - Reincarnate as a wild goat after I die of natural causes, surrounded by my loving family  
 
 ---
