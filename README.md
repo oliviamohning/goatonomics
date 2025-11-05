@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard and dataset chronicling the social
 
 goatonomics/  
 ├── goats_dataset.csv  
-├── goatonomics_dashboard.pbix  
+├── goatonomics_dashboard.pbix (coming soon, be patient)  
 ├── README.md  
 
 ---
