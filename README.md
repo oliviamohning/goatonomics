@@ -4,10 +4,10 @@ Welcome to the most unnecessary but heartfelt data project you’ll ever see, gu
 
 This repository contains a Power BI dashboard and dataset chronicling the social, emotional, and dietary lives of 99 "fictional" goats. Each goat has hopes, dreams, and a complex social life as a beloved member of their society.
 
-goatonomics/
-├── goats_dataset.csv
-├── goatonomics_dashboard.pbix
-├── README.md
+goatonomics/  
+├── goats_dataset.csv  
+├── goatonomics_dashboard.pbix  
+├── README.md  
 
 ---
 
