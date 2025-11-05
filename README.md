@@ -73,7 +73,4 @@ Bonus slicer: *Filter by Relationship Status.* Every goat deserves love, because
 ---
 
 ## A Note to Recruiters
-Data scientists may or may not find this funny. You may or may not find this funny. I find it fun, and if you do too, then perhaps we should work together?  
-This project proves beyond a shadow of a doubt that I am a master of PowerBI and data modeling.  
-I consider this project my magnum opus until further notice.
-No goats were harmed in the creation of this dataset.
+This project proves beyond a shadow of a doubt that I am a master of PowerBI and data modeling. I consider this project my magnum opus until further notice. Data scientists may or may not find this funny. You may or may not find this funny. I find it fun, and if you do too, then perhaps we should work together? No goats were harmed in the creation of this dataset.
