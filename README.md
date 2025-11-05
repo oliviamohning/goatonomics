@@ -1,8 +1,8 @@
-# 🐐 GOATONOMICS 2025: A COMPREHENSIVE ANALYSIS OF IMAGINARY GOATS
+# GOATONOMICS 2025: A COMPREHENSIVE ANALYSIS OF IMAGINARY GOATS
 
 Welcome to the most unnecessary but heartfelt data project you’ll ever see, guaranteed.
 
-This repository contains a **Power BI dashboard** and **dataset** chronicling the social, emotional, and dietary lives of *99 "fictional" goats*. Each goat has hopes, dreams, and at least one existential crisis. Some are enlightened. Most are calm. Some are hungry. All are beloved members of their society.
+This repository contains a Power BI dashboard and dataset chronicling the social, emotional, and dietary lives of 99 "fictional" goats. Each goat has hopes, dreams, and a complex social life as beloved members of their society.
 
 ---
 
