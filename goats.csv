@@ -1,0 +1,100 @@
+id,first_name,age,gender,relationship_status,favorite_color,astrological_sign,farm_of_origin,horn_length_cm,beard_length_cm,coat_condition,avg_daily_steps,weight_kg,bleat_vol_db,current_mood,naps_per_day,fav_activity,gang_affiliation,vaccine_status,fav_song,yearly_income,bff_id,nemesis_id,crush_on_id
+1,Maggie,11,female,single,green,Leo,North Meadow,7.2,0.07,soft,11000,77,127,grumpy,8,headbutting,Anarchist Climbers,conspiracy theorist,Take on Me,27733,62,55,85
+2,Daisy,5,female,it's complicated,brown,Taurus,Cliffside Spa,31.48,14.33,smooth,6344,62,101,hungry,9,starting drama,Nomadic Yogis,overdue,Bohemian Rhapsody,94385,59,63,1
+3,Rosie,14,female,mated,beige,Virgo,North Meadow,15.96,13.37,rough,633,72,140,chill,11,listening to the wind,Chill Grazers,up to date,I Will Always Love Ewe,35434,41,16,17
+4,Luna,10,female,situationship,white,Libra,Cliffside Spa,22.81,2.53,smooth,1213,73,79,hungry,6,meditating on a hill,Chill Grazers,up to date,Dreams,22975,20,52,31
+5,Penny,18,female,mated,gray,Pisces,Abandoned Barn,41.17,3.9,smooth,7753,75,89,grumpy,12,reorganizing pebbles,Anarchist Climbers,up to date,Jolene,8905,42,2,59
+6,Buck,12,male,mated,green,Aries,North Meadow,22.12,11.57,coarse,7301,65,65,grumpy,0,dominating the salt lick,Chill Grazers,overdue,Total Eclipse of the Hoof,6350,6,93,50
+7,Millie,2,female,it's complicated,yellow,Virgo,Abandoned Barn,34.65,23.22,soft,1391,103,67,chill,12,chasing butterflies,Chill Grazers,up to date,Bohemian Rhapsody,87306,69,69,54
+8,Hank,13,male,mated,brown,Sagittarius,Cliffside Spa,30.28,0.78,fluffy,8975,80,154,hungry,7,chewing everything,Chill Grazers,overdue,Don't Stop Bleating,25803,12,60,42
+9,Gus,7,male,mated,tan,Aquarius,North Meadow,32.83,12.71,coarse,2923,30,139,rowdy,11,practicing yoga,Nomadic Yogis,conspiracy theorist,Africa,31274,18,26,43
+10,Ruby,11,female,mated,green,Virgo,Cliffside Spa,15.39,19.09,smooth,14934,59,91,hungry,1,artistic bleating,Anarchist Climbers,conspiracy theorist,Total Eclipse of the Hoof,70834,85,15,79
+11,Nellie,11,female,mated,white,Taurus,Mud Pit,2.96,24.61,sparkly,1697,40,137,grumpy,5,screaming at nothing,Anarchist Climbers,conspiracy theorist,Africa,64929,41,40,28
+12,Charlie,14,male,it's complicated,gray,Virgo,Mud Pit,35.98,13.21,smooth,6711,117,131,calm,0,headbutting,Anarchist Climbers,conspiracy theorist,Hotel California,31713,94,85,71
+13,Otis,13,male,mated,brown,Capricorn,Cliffside Spa,3.62,14.91,soft,2159,91,63,chill,6,starting drama,Anarchist Climbers,conspiracy theorist,Wonderwall,88486,80,55,24
+14,Hazel,15,female,mated,green,Aquarius,Abandoned Barn,5.65,3.14,fluffy,14150,22,121,chill,8,screaming at nothing,Nomadic Yogis,up to date,Dreams,76260,2,79,15
+15,Earl,16,male,it's complicated,yellow,Aries,Moon Pasture,17.29,14.57,coarse,4814,77,153,chill,2,reorganizing pebbles,Goat Mafia,up to date,Bleat It,77716,35,55,39
+16,Annie,8,female,it's complicated,gray,Sagittarius,Abandoned Barn,16.35,14.77,sleek,9860,55,136,rowdy,8,chewing everything,Nomadic Yogis,overdue,Poker Face,22291,42,83,83
+17,Clover,12,female,mated,green,Leo,North Meadow,7.09,2.6,silky,10172,58,114,chill,4,practicing yoga,Anarchist Climbers,overdue,Uptown Funk,69408,23,34,20
+18,Ralph,1,male,single,brown,Taurus,Abandoned Barn,12.67,1.98,smooth,1646,77,125,chill,3,napping in sunlight,Goat Mafia,overdue,Take on Me,61575,18,39,28
+19,Fern,3,female,it's complicated,white,Aries,North Meadow,18.44,1.68,muddy,3671,82,95,grumpy,4,chewing everything,Nomadic Yogis,up to date,Mr. Brightside,86575,95,61,47
+20,Bonnie,1,female,it's complicated,green,Aries,Cliffside Spa,10.59,7.49,coarse,12823,51,108,grumpy,10,practicing yoga,Anarchist Climbers,overdue,Livin' la Vida Loca,79867,29,63,41
+21,Joe,5,male,it's complicated,yellow,Aries,Mud Pit,21.48,0.35,patchy,4161,39,116,chill,5,reorganizing pebbles,Anarchist Climbers,up to date,Billie Jean,23177,10,22,80
+22,Clyde,8,male,it's complicated,brown,Aries,Moon Pasture,23.81,2.4,soft,9076,98,114,hungry,10,screaming at nothing,Anarchist Climbers,overdue,Baahemian Rhapsody,72834,73,44,68
+23,Sam,13,male,mated,green,Gemini,Moon Pasture,28.06,22.89,sleek,13723,37,134,hungry,3,stomping on grass,Anarchist Climbers,overdue,Shake It Off,735,99,3,53
+24,Tucker,15,male,mated,gray,Libra,Abandoned Barn,18.16,12.63,soft,5889,41,113,chill,3,screaming at nothing,Anarchist Climbers,conspiracy theorist,Billie Jean,71358,67,28,20
+25,Olive,11,female,mated,white,Aquarius,North Meadow,33.6,11.76,smooth,5003,80,155,chill,5,chewing everything,Nomadic Yogis,up to date,I Will Always Love Ewe,53523,44,15,75
+26,Mabel,5,female,mated,brown,Sagittarius,Moon Pasture,2.69,19.95,soft,10683,57,79,chill,1,climbing rocks,Nomadic Yogis,overdue,Mr. Brightside,72511,96,52,41
+27,Sadie,1,female,mated,tan,Aquarius,Cliffside Spa,39.52,17.44,coarse,9398,62,73,rowdy,6,staring into the void,Anarchist Climbers,conspiracy theorist,Total Eclipse of the Hoof,8264,28,11,27
+28,Josie,17,female,single,green,Sagittarius,Mud Pit,1.25,14.05,soft,1034,107,102,rowdy,10,listening to the wind,Goat Mafia,up to date,Don't Stop Bleating,9597,71,94,20
+29,Wally,2,male,single,gray,Pisces,North Meadow,23.35,12.57,soft,5415,52,124,calm,10,stealing snacks,Chill Grazers,overdue,We Will Bleat You,73019,38,35,97
+30,Ellie,2,female,mated,brown,Pisces,North Meadow,43.8,7.99,smooth,13246,66,61,chill,9,chasing butterflies,Goat Mafia,conspiracy theorist,Baahemian Rhapsody,76953,77,16,58
+31,Bo,3,male,single,green,Cancer,Mud Pit,33.3,9.77,sleek,2015,39,155,hungry,11,listening to the wind,Anarchist Climbers,overdue,Wonderwall,4283,82,63,44
+32,Abby,11,female,single,beige,Virgo,North Meadow,14.11,20.93,coarse,11825,51,74,calm,8,stomping on grass,Nomadic Yogis,overdue,Africa,2128,19,61,5
+33,Juniper,8,nonbinary,situationship,yellow,Scorpio,Mud Pit,27.29,23.07,shaggy,10380,91,155,rowdy,1,reorganizing pebbles,Nomadic Yogis,overdue,Take on Me,91476,41,99,2
+34,Frank,1,male,situationship,gray,Gemini,Cliffside Spa,22.65,16.21,coarse,6484,20,100,calm,7,chasing butterflies,Chill Grazers,overdue,All the single Goats,45567,71,24,31
+35,Rex,11,male,mated,white,Gemini,North Meadow,18.56,5.16,soft,12186,35,100,hungry,6,screaming at nothing,Goat Mafia,overdue,Africa,62685,77,23,6
+36,Betsy,16,female,single,brown,Scorpio,Cliffside Spa,30.72,14.3,coarse,13363,114,139,rowdy,11,headbutting,Goat Mafia,conspiracy theorist,Jolene,57590,11,90,74
+37,Nash,4,male,it's complicated,green,Sagittarius,Cliffside Spa,37.73,14.71,dusty,10715,108,75,hungry,3,climbing rocks,Chill Grazers,overdue,Every Bleat You Take,47226,88,28,45
+38,Rowan,16,nonbinary,it's complicated,gray,Libra,Cliffside Spa,32.76,15.35,soft,11814,40,118,hungry,2,climbing rocks,Nomadic Yogis,conspiracy theorist,Smells Like Teen Spirit,69785,89,28,75
+39,Tom,11,male,situationship,green,Sagittarius,Mud Pit,20.31,12.87,patchy,7774,78,154,rowdy,5,stomping on grass,Nomadic Yogis,conspiracy theorist,All the single Goats,21931,31,20,51
+40,Willow,4,female,mated,brown,Taurus,Mud Pit,24.73,10.96,patchy,11356,94,124,chill,9,climbing rocks,Anarchist Climbers,up to date,Thunderstruck,28869,99,4,30
+41,Harvey,4,male,mated,yellow,Leo,Cliffside Spa,24.46,10.31,coarse,14624,63,157,chill,1,chasing butterflies,Chill Grazers,conspiracy theorist,Shake It Off,55159,12,90,32
+42,Marvin,2,male,situationship,tan,Libra,Cliffside Spa,16.91,15.49,scruffy,1895,36,76,chill,4,practicing yoga,Goat Mafia,conspiracy theorist,Stayin' Afloat,72326,99,53,97
+43,Lou,3,female,it's complicated,green,Pisces,Cliffside Spa,15.33,16,coarse,7896,100,130,grumpy,0,staring into the void,Anarchist Climbers,up to date,Bleat It,83863,49,10,97
+44,Chester,18,male,it's complicated,white,Cancer,Abandoned Barn,34.83,8.41,coarse,5451,89,144,rowdy,0,practicing yoga,Goat Mafia,up to date,Bohemian Rhapsody,73891,36,54,81
+45,Levi,9,male,single,brown,Scorpio,Cliffside Spa,5.77,11.38,soft,2356,44,87,grumpy,2,reorganizing pebbles,Nomadic Yogis,overdue,Bleat It,88029,5,81,43
+46,Grace,2,female,single,gray,Libra,Abandoned Barn,13.62,8.69,patchy,738,107,96,hungry,2,starting drama,Chill Grazers,overdue,Wonderwall,31769,12,34,26
+47,Ben,9,male,it's complicated,green,Virgo,Abandoned Barn,29.88,21.82,sleek,9300,56,66,chill,7,meditating on a hill,Chill Grazers,overdue,Poker Face,22180,42,2,20
+48,Lucy,12,female,single,yellow,Cancer,North Meadow,24.6,9.66,fluffy,12586,20,84,calm,3,meditating on a hill,Goat Mafia,up to date,Uptown Funk,31342,52,25,70
+49,Rat,13,male,it's complicated,brown,Scorpio,Abandoned Barn,28.77,11.64,smooth,7218,83,127,calm,12,napping in sunlight,Goat Mafia,up to date,Poker Face,87972,26,79,97
+50,Maisie,13,female,situationship,green,Capricorn,Abandoned Barn,10.36,5.57,soft,10984,47,118,rowdy,10,climbing rocks,Nomadic Yogis,conspiracy theorist,I Will Always Love Ewe,95007,35,61,64
+51,Curt,13,male,mated,gray,Taurus,North Meadow,32.85,24.31,patchy,14927,119,102,chill,0,screaming at nothing,Anarchist Climbers,overdue,Shake It Off,12950,36,48,12
+52,Dolly,7,female,mated,white,Aquarius,North Meadow,29.78,20.88,smooth,2824,88,110,calm,2,napping in sunlight,Nomadic Yogis,conspiracy theorist,Dancing Queen,8464,81,77,80
+53,Clay,17,male,single,brown,Capricorn,Mud Pit,20.22,11.11,soft,10464,91,90,calm,4,staring into the void,Chill Grazers,overdue,Bleat It,14836,25,90,59
+54,Dottie,14,female,situationship,green,Libra,Mud Pit,44.4,12.64,mud-slick,5982,78,95,grumpy,6,chasing butterflies,Nomadic Yogis,overdue,Baahemian Rhapsody,75766,11,71,68
+55,Bill,16,male,situationship,yellow,Aries,Abandoned Barn,32.49,19.85,patchy,2278,103,143,calm,4,artistic bleating,Chill Grazers,up to date,Thunderstruck,57773,12,14,40
+56,Ruthie,15,male,situationship,brown,Aquarius,Abandoned Barn,30.19,12.78,patchy,11286,93,155,chill,4,chewing everything,Chill Grazers,conspiracy theorist,Grazing in the Wind,11150,28,63,77
+57,Minnie,12,female,single,green,Aries,Moon Pasture,17.3,9.98,coarse,9031,23,81,grumpy,8,reorganizing pebbles,Chill Grazers,conspiracy theorist,Livin' la Vida Loca,3005,37,43,89
+58,Oscar,14,male,single,gray,Cancer,Mud Pit,28.95,1.42,soft,10974,40,91,calm,10,screaming at nothing,Nomadic Yogis,overdue,Grazing in the Wind,83778,73,12,81
+59,Finn,9,male,situationship,brown,Capricorn,North Meadow,27.02,20.06,patchy,2181,91,146,hungry,4,meditating on a hill,Goat Mafia,conspiracy theorist,Grazing in the Wind,15495,72,3,46
+60,Moose,4,existential crisis,it's complicated,white,Virgo,Moon Pasture,32.76,3.11,coarse,10715,112,141,chill,7,meditating on a hill,Anarchist Climbers,up to date,Africa,42118,42,72,87
+61,Cricket,2,existential crisis,it's complicated,green,Scorpio,Abandoned Barn,24.22,8.8,sleek,6856,84,124,hungry,12,chasing butterflies,Nomadic Yogis,conspiracy theorist,Bleat It,71180,55,45,45
+62,Pickles,11,female,it's complicated,tan,Aries,Abandoned Barn,15.38,22.41,smooth,3427,110,95,chill,2,artistic bleating,Chill Grazers,overdue,Hotel California,71307,99,38,63
+63,Gertie,12,male,single,brown,Gemini,Cliffside Spa,37.04,4.19,coarse,9164,50,125,rowdy,7,reorganizing pebbles,Anarchist Climbers,up to date,Take on Me,21938,89,70,54
+64,Scout,17,male,single,yellow,Sagittarius,Cliffside Spa,11.85,10.56,soft,8781,37,128,grumpy,12,stealing snacks,Goat Mafia,up to date,I Will Always Love Ewe,65080,22,90,48
+65,Otto,6,male,mated,green,Sagittarius,Mud Pit,42.35,11.38,patchy,1649,73,127,grumpy,7,staring into the void,Anarchist Climbers,conspiracy theorist,Bleat It,87218,12,23,84
+66,Pearl,18,female,it's complicated,brown,Taurus,Moon Pasture,17.48,19.41,coarse,6387,45,63,chill,0,headbutting,Anarchist Climbers,conspiracy theorist,Jolene,98100,8,95,27
+67,Holly,14,female,it's complicated,gray,Aquarius,Moon Pasture,18.6,4.2,coarse,1737,74,125,rowdy,1,stomping on grass,Anarchist Climbers,conspiracy theorist,Grazing in the Wind,52956,74,42,17
+68,Sunny,17,nonbinary,mated,green,Gemini,Mud Pit,18.73,16.13,soft,5827,55,92,chill,9,artistic bleating,Anarchist Climbers,overdue,Don't Stop Bleating,77121,76,56,41
+69,Ash,8,female,single,white,Pisces,Cliffside Spa,13.11,10.28,soft,8026,102,62,calm,1,practicing yoga,Anarchist Climbers,up to date,Stayin' Afloat,72813,46,33,40
+70,Millie,15,nonbinary,single,brown,Leo,Abandoned Barn,27.54,10.67,coarse,11219,111,118,hungry,10,chasing butterflies,Anarchist Climbers,conspiracy theorist,We Will Bleat You,51268,44,19,73
+71,Robin,15,male,it's complicated,green,Scorpio,Moon Pasture,19.72,17.68,soft,6261,20,128,hungry,5,climbing rocks,Chill Grazers,overdue,Grazing in the Wind,76578,99,11,78
+72,Sky,4,female,single,beige,Cancer,Moon Pasture,12.55,18.24,coarse,13099,98,138,hungry,3,climbing rocks,Nomadic Yogis,overdue,Stairway to Hayven,46654,82,97,38
+73,Waylon,16,male,situationship,gray,Libra,Moon Pasture,16.67,7.14,sparkly,3444,29,158,calm,0,dominating the salt lick,Goat Mafia,overdue,Stairway to Hayven,17326,67,72,18
+74,Tilly,1,female,single,green,Leo,North Meadow,19.18,5.6,sleek,3252,107,66,hungry,5,screaming at nothing,Anarchist Climbers,conspiracy theorist,Bohemian Rhapsody,24296,1,15,43
+75,Homer,16,male,single,brown,Cancer,North Meadow,17.56,6.95,soft,5135,105,93,chill,11,napping in sunlight,Nomadic Yogis,up to date,I Will Always Love Ewe,45449,54,45,33
+76,Jill,10,female,single,tan,Sagittarius,Cliffside Spa,37.33,1.69,soft,9148,108,68,hungry,2,stealing snacks,Anarchist Climbers,overdue,Take on Me,35911,75,91,10
+77,Chip,2,existential crisis,situationship,yellow,Aquarius,Cliffside Spa,10.12,0.18,soft,7006,80,68,chill,5,chewing everything,Nomadic Yogis,overdue,I Will Always Love Ewe,69736,6,48,68
+78,Trucker,13,male,mated,green,Capricorn,North Meadow,24.88,19.42,fluffy,1491,22,105,chill,4,listening to the wind,Nomadic Yogis,overdue,Livin' la Vida Loca,86861,97,55,79
+79,Bert,2,male,mated,brown,Leo,Cliffside Spa,35.54,15.99,patchy,6330,36,101,grumpy,11,artistic bleating,Goat Mafia,conspiracy theorist,Wonderwall,12979,77,89,84
+80,Sage,8,nonbinary,mated,gray,Cancer,Mud Pit,24.79,3.65,patchy,2544,84,137,grumpy,4,staring into the void,Chill Grazers,up to date,We Will Bleat You,88061,62,98,34
+81,Darla,10,female,single,green,Virgo,North Meadow,18.38,16.64,sleek,9410,33,130,grumpy,6,plotting escapes,Anarchist Climbers,overdue,Dancing Queen,84574,98,2,85
+82,Winston,17,male,it's complicated,white,Gemini,Mud Pit,22.94,17.48,coarse,9603,93,157,hungry,0,artistic bleating,Chill Grazers,up to date,We Will Bleat You,75323,58,94,76
+83,Clint,9,male,situationship,brown,Pisces,Mud Pit,12,24.44,coarse,13134,83,117,calm,5,napping in sunlight,Goat Mafia,up to date,Hotel California,88385,73,29,41
+84,Dean,3,male,it's complicated,green,Libra,North Meadow,36.82,12.94,scruffy,3668,59,103,rowdy,11,listening to the wind,Goat Mafia,conspiracy theorist,Sweet Caroline,99242,4,59,54
+85,Annie,5,female,it's complicated,yellow,Virgo,Moon Pasture,40.24,4.01,patchy,14012,117,87,calm,7,stomping on grass,Goat Mafia,conspiracy theorist,Bohemian Rhapsody,36107,6,32,20
+86,Lucas,12,male,situationship,gray,Leo,Moon Pasture,18.43,4.69,smooth,5851,69,133,hungry,6,meditating on a hill,Chill Grazers,up to date,Smells Like Teen Spirit,4276,57,66,8
+87,Rainbow,3,female,it's complicated,brown,Cancer,Moon Pasture,44.62,2.28,fuzzy,14902,25,110,rowdy,12,stealing snacks,Anarchist Climbers,conspiracy theorist,I Will Always Love Ewe,88223,95,89,72
+88,Honey,12,female,mated,green,Taurus,Mud Pit,11.93,23.03,soft,6882,97,105,hungry,9,chewing everything,Nomadic Yogis,conspiracy theorist,Grazing in the Wind,89096,29,18,11
+89,Lila,10,female,mated,tan,Pisces,Moon Pasture,37.93,18.6,dusty,5373,40,76,rowdy,3,artistic bleating,Goat Mafia,conspiracy theorist,Mr. Brightside,38619,22,93,88
+90,Donald,3,male,situationship,brown,Virgo,North Meadow,14.02,3.1,coarse,11778,43,118,hungry,5,stomping on grass,Chill Grazers,overdue,Jolene,86159,26,26,19
+91,Tina,3,female,mated,white,Scorpio,Mud Pit,28.2,14.01,soft,14094,106,100,calm,9,plotting escapes,Anarchist Climbers,overdue,Thunderstruck,4255,29,89,15
+92,Mabel,5,female,single,green,Taurus,Cliffside Spa,39.57,8,soft,12237,76,123,chill,8,screaming at nothing,Chill Grazers,overdue,We Will Bleat You,94632,90,72,6
+93,Roz,11,female,mated,gray,Scorpio,Cliffside Spa,33.15,6.74,soft,14334,64,112,rowdy,5,stomping on grass,Nomadic Yogis,up to date,Africa,1996,55,57,67
+94,Wade,18,male,mated,yellow,Aquarius,Moon Pasture,11.56,1.84,soft,3980,81,78,calm,7,starting drama,Goat Mafia,up to date,Bohemian Rhapsody,38743,56,95,79
+95,Grant,3,male,single,brown,Cancer,North Meadow,29.86,11.83,sleek,6777,91,134,grumpy,6,staring into the void,Goat Mafia,conspiracy theorist,Bleat It,21345,42,51,94
+96,Gabe,16,male,mated,green,Gemini,Mud Pit,6.69,5.01,sparkly,12867,51,71,chill,8,meditating on a hill,Chill Grazers,up to date,All the single Goats,16086,97,98,11
+97,Nora,9,female,it's complicated,gray,Libra,Mud Pit,15.44,10.9,patchy,9197,59,86,grumpy,8,starting drama,Chill Grazers,conspiracy theorist,Hotel California,69453,27,1,40
+98,Ned,17,male,situationship,brown,Libra,Abandoned Barn,21.32,8.22,coarse,1103,38,149,chill,3,chewing everything,Nomadic Yogis,overdue,Bad Romance,71073,87,48,71
+99,Pete,18,male,situationship,green,Sagittarius,North Meadow,31.74,4.85,smooth,12513,81,151,calm,6,chewing everything,Nomadic Yogis,conspiracy theorist,Total Eclipse of the Hoof,58923,92,95,45
