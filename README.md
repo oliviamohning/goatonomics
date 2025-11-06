@@ -64,39 +64,53 @@ Bonus slicer: *Filter by Relationship Status.* Every goat deserves love, because
 ---
 
 ## Key Findings
-Using Excel PivotTables, descriptive analysis was conducted to examine the relationship between mood and herd affiliation. Two primary visualizations were created:
-1. Goat Mood Distribution by Gang Affiliation
-This chart shows the distribution of emotional states across four distinct herds: Anarchist Climbers, Chill Grazers, Goat Mafia, and Nomadic Yogis.
 
-Insights:
-- Chill Grazers and Anarchist Climbers have the highest proportion of “chill” and “hungry” goats, suggesting stable or moderate emotional conditions within these groups.
-- Goat Mafia members display the largest share of “enlightened” goats, indicating a potential link between herd identity and introspective tendencies.
-- Nomadic Yogis maintain balanced representation across all moods, with fewer extreme emotional states.
+Using Excel PivotTables, descriptive analysis was conducted to explore the relationship between mood and herd affiliation among 99 goats. The results highlight distinct behavioral and emotional patterns within each group.
 
-2. Average Happiness Score by Gang Affiliation
-A calculated “Happiness Index” (derived using VLOOKUP and a reference table) was averaged for each herd.
+---
 
-Insights:
-- The Anarchist Climbers show the highest mean happiness score, suggesting a positive correlation between autonomy and subjective well-being.
-- The Chill Grazers and Nomadic Yogis fall in the midrange, indicating stable satisfaction levels with limited variability.
-- The Goat Mafia exhibit the lowest average happiness despite high rates of “enlightenment,” suggesting that awareness and happiness may not correlate positively.
+### 1. Goat Mood Distribution by Gang Affiliation
 
-Interpretation:
-Across the dataset, there appears to be a tension between enlightenment and happiness. Goats demonstrating higher reflective or philosophical traits also tend to report lower happiness scores. Conversely, groups emphasizing flexibility and self-direction—such as the Anarchist Climbers—exhibit higher average well-being. These patterns, while fictional, mirror real-world discussions in organizational psychology regarding autonomy, awareness, and emotional outcomes.
+This visualization compares the frequency of emotional states across the four herds: **Anarchist Climbers**, **Chill Grazers**, **Goat Mafia**, and **Nomadic Yogis**.
+<p align="center">
+  <img src="assets/mood_by_gang.png" alt="Goat Mood Distribution by Gang Affiliation" width="650"/>
+</p>
+**Insights**
+- **Chill Grazers** and **Anarchist Climbers** have the highest proportions of *chill* and *hungry* goats, suggesting greater emotional stability.  
+- **Goat Mafia** members show the largest share of *enlightened* goats, indicating introspection or heightened self-awareness within the group.  
+- **Nomadic Yogis** demonstrate relatively balanced emotional representation, with fewer extreme states.
 
-MORE COMING SOON. I really hope to find that at least one goat has a crush on itself. I might just fudge my data to make it so. This is illegal in real data analytics, but is still probably done in secret. Who said that?
+### 2. Average Happiness Index by Gang Affiliation
+
+A calculated **Happiness Index** (derived via VLOOKUP and a reference table) was averaged across herds to measure relative well-being.
+<p align="center">
+  <img src="assets/happiness-by-gang.png" alt="Average Happiness Index by Gang Affiliation" width="650"/>
+</p>
+**Insights**
+- **Anarchist Climbers** achieved the highest average happiness, suggesting a positive correlation between autonomy and well-being.  
+- **Chill Grazers** and **Nomadic Yogis** show moderate, stable satisfaction levels.  
+- **Goat Mafia** exhibit the lowest happiness despite high enlightenment scores, indicating that awareness may inversely affect subjective well-being.
+
+---
+
+### Interpretation
+
+Across the dataset, there appears to be an inverse relationship between enlightenment and happiness. Goats associated with introspective or disciplined groups (such as the Goat Mafia) report lower happiness levels, while those aligned with more autonomous or chaotic herds (such as the Anarchist Climbers) report higher well-being.  
+
+These patterns, though fictional, mirror dynamics often observed in organizational behavior—suggesting that autonomy and community structure can influence satisfaction even in simulated goat societies.
 
 ---
 
 ## Future Work
+- More analytics. I really hope to find that at least one goat has a crush on itself. I might just fudge my data to make it so. This is illegal in real data analytics, but is still probably done in secret. Who said that?
 - Actually make the PowerBI dashboard. I'm so looking forward to this. For now, I need to sleep the sickness away.
-- Add DAX measure for Goat Happiness Index 2.0  
-- Integrate weather data in a new table to predict bleat frequency vs weather and show I can do JOINs in SQL or something  
-- Maybe create a machine learning model to detect impending barnyard drama, but I don't know how I'd measure the drama. Another table will need to be created, or we will scrap this idea and speak no more of it.  
-- Replace all visuals with goat emojis once I'm employed  
-- Reincarnate as a wild goat after I die of natural causes, surrounded by my loving family  
+- Add DAX measure for Goat Happiness Index 2.0
+- Integrate weather data in a new table to predict bleat frequency vs weather and show I can do JOINs in SQL or something
+- Maybe create a machine learning model to detect impending barnyard drama, but I don't know how I'd measure the drama. Another table will need to be created, or we will scrap this idea and speak no more of it.
+- Replace all visuals with goat emojis once I'm employed
+- Reincarnate as a wild goat after I die of natural causes, surrounded by my loving family
 
 ---
 
 ## A Note to Recruiters
-This project proves beyond a shadow of a doubt that I am a master of PowerBI and data modeling. I consider this project my magnum opus until further notice. Data scientists may or may not find this funny. You may or may not find this funny. I find it fun, and if you do too, then perhaps we should work together? No goats were harmed in the creation of this dataset.
+This project proves beyond a shadow of a doubt that I am a master of Excel, PowerBI and data modeling. I consider this project my magnum opus until further notice. Data scientists may or may not find this funny. You may or may not find this funny. If you do, we should work together. No goats were harmed in the creation of this dataset.
