@@ -73,7 +73,7 @@ Using Excel PivotTables, descriptive analysis was conducted to explore the relat
 
 This visualization compares the frequency of emotional states across the four herds: **Anarchist Climbers**, **Chill Grazers**, **Goat Mafia**, and **Nomadic Yogis**.
 <p align="center">
-  <img src="assets/mood_by_gang.png" alt="Goat Mood Distribution by Gang Affiliation" width="650"/>
+  <img src="assets/mood-by-gang.png" alt="Goat Mood Distribution by Gang Affiliation" width="650"/>
 </p>
 **Insights**
 - **Chill Grazers** and **Anarchist Climbers** have the highest proportions of *chill* and *hungry* goats, suggesting greater emotional stability.  
