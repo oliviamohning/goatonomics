@@ -1,0 +1,16 @@
+# macOS files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data folders (to avoid uploading large datasets)
+
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.env/
