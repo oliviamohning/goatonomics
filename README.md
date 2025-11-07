@@ -1,6 +1,6 @@
 # GOATONOMICS 2025: A COMPREHENSIVE ANALYSIS OF IMAGINARY GOATS
 
-<img src="assets/goats.jpeg" width="300" align="left" />
+<img src="assets/goats.jpeg" width="350" align="left" />
 
 Welcome to the most unnecessary but heartfelt data project you’ll ever see, guaranteed.
 
