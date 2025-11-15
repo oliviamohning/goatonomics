@@ -86,6 +86,7 @@ A calculated **Happiness Index** (derived via VLOOKUP and a reference table) was
 <p align="center">
   <img src="assets/happiness-by-gang.png" alt="Average Happiness Index by Gang Affiliation" width="650"/>
 </p>
+
 **Insights**
 - **Anarchist Climbers** achieved the highest average happiness, suggesting a positive correlation between autonomy and well-being.  
 - **Chill Grazers** and **Nomadic Yogis** show moderate, stable satisfaction levels.  
