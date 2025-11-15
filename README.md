@@ -74,6 +74,7 @@ This visualization compares the frequency of emotional states across the four he
 <p align="center">
   <img src="assets/mood-by-gang.png" alt="Goat Mood Distribution by Gang Affiliation" width="650"/>
 </p>
+
 **Insights**
 - **Chill Grazers** and **Anarchist Climbers** have the highest proportions of *chill* and *hungry* goats, suggesting greater emotional stability.  
 - **Goat Mafia** members show the largest share of *enlightened* goats, indicating introspection or heightened self-awareness within the group.  
