@@ -2,9 +2,9 @@
 
 <img src="assets/goats.jpeg" width="360" align="left" />
 
-Welcome to the most unnecessary but heartfelt data project you’ll ever see, guaranteed.
+Welcome to the most unnecessary but heartfelt data project you’ll ever see, guaranteed. This repository contains a Power BI dashboard and dataset chronicling the social, emotional, and dietary lives of 99 "fictional" goats. Each goat has hopes, dreams, and a complex social life as a beloved member of their society.
 
-This repository contains a Power BI dashboard and dataset chronicling the social, emotional, and dietary lives of 99 "fictional" goats. Each goat has hopes, dreams, and a complex social life as a beloved member of their society. Tired of wrangling messy, real-world datasets and looking for insights that held great significance to my many constituents, I asked myself: “What if I treated a herd of imaginary goats with the same analytical rigor as a Fortune 500 company spearheaded by Nancy Pelosi?”
+Tired of wrangling messy, real-world datasets and looking for insights that held great significance to my many constituents, I asked myself: “What if I treated a herd of imaginary goats with the same analytical rigor as a Fortune 500 company spearheaded by Nancy Pelosi?”
 
 And Goatonomics was born - a serious visual exploration of goat mood swings, friendship networks, favorite colors, musical preferences, gang affiliation, and the little things that most people don't notice. "That's because," my local farmers may printf in protest, "they do not exist." To this I inquire: have you even looked? Or were you looking at your phone while your herd of goats was coralled and harassed by your herding dog robot?  
 Some goats listen to *Bohemian Rhapsody.* Others scream into the void, like you and me. Correlation may not equal causation, but it’s all very suspicious and I'm going to get to the bottom of it. My job search fatigue has set in and this is my way of venting some of my angst.
